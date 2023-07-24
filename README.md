@@ -1,2 +1,2 @@
-# Express-Ts-Dockerized-sample
-A dockerized Express.js example app, with Typescript and hot reload.
+# Express + Typescript + Docker example
+A dockerized Express.js app, with Typescript and hot reload enabled.
